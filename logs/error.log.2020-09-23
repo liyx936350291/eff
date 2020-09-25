@@ -1,0 +1,5 @@
+2020-09-23 16:18:25,823 - tools.report.log_tool - ERROR - 不包含期望值, 期望值 是  扣款成功
+2020-09-23 16:18:25,988 - tools.report.log_tool - ERROR - 不包含期望值, 期望值 是  提现成功
+2020-09-23 16:24:46,705 - tools.report.log_tool - ERROR - 不包含期望值, 期望值 是  提现成功
+2020-09-23 16:24:47,006 - tools.report.log_tool - ERROR - 不包含期望值, 期望值 是  该账户正处在冻结状态，无法提现
+2020-09-23 16:25:03,449 - tools.report.log_tool - ERROR - 不包含期望值, 期望值 是  提现成功
