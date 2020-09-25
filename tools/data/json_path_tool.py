@@ -139,4 +139,3 @@ if __name__ == '__main__':
           "type": "iphone"
         }
      print(index_dic(data,{"shuzi":"123"}))
-print()
